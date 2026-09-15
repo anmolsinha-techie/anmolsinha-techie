@@ -43,23 +43,23 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white)
 
-](https://github.com/your-username)
+](https://github.com/anmolsinha-techie)
 
 <br/>
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=anmolsinha-techie&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 
 
-![Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=7c3aed&labelColor=1e1b2e)
+![Followers](https://img.shields.io/github/followers/anmolsinha-techie?style=for-the-badge&color=7c3aed&labelColor=1e1b2e)
 
 
 
 
-![Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge&color=6366f1&labelColor=1e1b2e)
+![Stars](https://img.shields.io/github/stars/anmolsinha-techie?style=for-the-badge&color=6366f1&labelColor=1e1b2e)
 
 
 
@@ -155,7 +155,7 @@ A full stack restaurant website with menu browsing, table reservations, and CMS-
 | **Performance** | Static generation + edge caching for sub-second page loads |
 | **Security** | Supabase Row-Level Security, environment-scoped API keys |
 | **Impact** | Freelance-ready template for local restaurant clients |
-| **Repository** | [github.com/your-username/restaurant-platform](https://github.com/your-username/restaurant-platform) |
+| **Repository** | [github.com/anmolsinha-techie/restaurant-platform](https://github.com/anmolsinha-techie/restaurant-platform) |
 
 Built to explore a real freelancing use case: reservation logic, CMS-editable menus, and a deployment pipeline a non-technical restaurant owner could actually maintain. Focused on Next.js App Router patterns, type-safe data fetching, and Supabase as a lightweight backend-as-a-service.
 
@@ -174,7 +174,7 @@ A structured practice tracker mapping problems to algorithmic patterns rather th
 | **Performance** | Client-side filtering across difficulty and pattern tags |
 | **Security** | N/A (local personal tool) |
 | **Impact** | Backbone of a 22-month structured placement-prep roadmap |
-| **Repository** | [github.com/your-username/dsa-pattern-tracker](https://github.com/your-username/dsa-pattern-tracker) |
+| **Repository** | [github.com/anmolsinha-techie/dsa-pattern-tracker](https://github.com/anmolsinha-techie/dsa-pattern-tracker) |
 
 Designed around pattern-based learning (two pointers, sliding window, graph traversal, DP, greedy, etc.) instead of topic-based grinding, with must-do ratings and progress state per problem.
 
@@ -193,7 +193,7 @@ A set of MATLAB utilities and visualizations covering vector/matrix operations, 
 | **Performance** | Vectorized operations over loop-based computation |
 | **Security** | N/A |
 | **Impact** | Applied foundation for data science / ML preprocessing pipelines |
-| **Repository** | [github.com/your-username/matlab-toolkit](https://github.com/your-username/matlab-toolkit) |
+| **Repository** | [github.com/anmolsinha-techie/matlab-toolkit](https://github.com/anmolsinha-techie/matlab-toolkit) |
 
 Translated core linear algebra and numerical methods coursework into reusable, documented scripts — with custom visualizations to make abstract matrix operations inspectable.
 
@@ -287,22 +287,22 @@ Executing a structured, phased roadmap toward SWE and AI/ML roles at AMD, Google
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
-](https://leetcode.com/your-username)
+](https://leetcode.com/anmolsinha-techie)
 [
 
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
-](https://geeksforgeeks.org/user/your-username)
+](https://geeksforgeeks.org/user/anmolsinha-techie)
 [
 
 ![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
-](https://hackerrank.com/your-username)
+](https://hackerrank.com/anmolsinha-techie)
 [
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 
-](https://codechef.com/users/your-username)
+](https://codechef.com/users/anmolsinha-techie)
 
 <br/>
 
@@ -310,7 +310,7 @@ Executing a structured, phased roadmap toward SWE and AI/ML roles at AMD, Google
 
 ![LeetCode Solutions](https://img.shields.io/badge/LeetCode%20Solutions-Auto--Synced%20via%20LeetHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)
 
-](https://github.com/your-username/leetcode-solutions)
+](https://github.com/anmolsinha-techie/leetcode-solutions)
 
 </div>
 
@@ -320,10 +320,10 @@ Executing a structured, phased roadmap toward SWE and AI/ML roles at AMD, Google
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anmolsinha-techie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolsinha-techie&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsinha-techie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
 
 </div>
 
@@ -333,7 +333,7 @@ Executing a structured, phased roadmap toward SWE and AI/ML roles at AMD, Google
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=anmolsinha-techie&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=7" />
 
 </div>
 
@@ -343,7 +343,7 @@ Executing a structured, phased roadmap toward SWE and AI/ML roles at AMD, Google
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anmolsinha-techie&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
 
 </div>
 
@@ -353,7 +353,7 @@ Executing a structured, phased roadmap toward SWE and AI/ML roles at AMD, Google
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/anmolsinha-techie/anmolsinha-techie/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -401,7 +401,7 @@ open_to:
 
 ![GitHub](https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white)
 
-](https://github.com/your-username)
+](https://github.com/anmolsinha-techie)
 [
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)
